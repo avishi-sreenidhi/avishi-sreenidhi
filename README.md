@@ -5,6 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codeforces.com/profile/weeshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="weeshi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/user0737oq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user0737oq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -13,3 +15,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avishi-sreeenidhi&show_icons=true&locale=en&layout=compact" alt="avishi-sreeenidhi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avishi-sreeenidhi&show_icons=true&locale=en" alt="avishi-sreeenidhi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avishi-sreeenidhi&" alt="avishi-sreeenidhi" /></p>
