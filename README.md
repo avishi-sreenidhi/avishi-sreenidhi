@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm avishi-sreenidhi</h1>
-<h3 align="left">An aspiring ML engineer/software developer!</h3>
+
 
 - 📫 How to reach me **avishi.sreenidhi@gmail.com**
 
